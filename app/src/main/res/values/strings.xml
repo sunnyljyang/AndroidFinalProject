@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AndroidFinalProject</string>
+    <string name="title">Final_Project</string>
+    <string name="TicketMaster"></string>
+    <string name="AuthorInfo">Coded by: Sunny Yang</string>
+    <string name="RecipeSearch"></string>
+    <string name="Covid19Data"></string>
+    <string name="AudioDatabase"></string>
+    <string name="ReturnToMain">Return</string>
+    <string name="search">Search</string>
+    <string name="history">Show Searching History</string>
+</resources>

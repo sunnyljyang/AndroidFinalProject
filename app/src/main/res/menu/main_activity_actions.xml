@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_ticket_master"
+        android:title="@string/TicketMaster"
+        android:icon="@drawable/ticket_master"
+        android:orderInCategory="100"
+        app:showAsAction="always|collapseActionView"
+        app:actionViewClass="android.widget.SearchView" />
+    <item
+        android:id="@+id/action_recipe_search"
+        android:title="@string/RecipeSearch"
+        android:icon="@drawable/recipe_search"
+        android:orderInCategory="200"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/action_covid19_data"
+        android:title="@string/Covid19Data"
+        android:icon="@drawable/covid19_data"
+        android:orderInCategory="300"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/action_audio_database"
+        android:title="@string/AudioDatabase"
+        android:icon="@drawable/audio_database"
+        android:orderInCategory="400"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/action_return_to_main"
+        android:title="@string/ReturnToMain"
+        android:icon="@drawable/return_to_main"
+        android:orderInCategory="500"
+        app:showAsAction="always"/>
+</menu>
